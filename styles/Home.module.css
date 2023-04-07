@@ -1,0 +1,13 @@
+.homeRegisterBtn {
+  background: #331B3B;
+  border-radius: 10px 10px 10px 30px;
+  color: white;
+  padding: 15px 25px;
+}
+
+.homeSignBtn {
+  border: 1.5px solid #331B3B;
+  border-radius: 10px 30px 10px 10px;
+  color: #331B3B;
+  padding: 15px 25px;
+}

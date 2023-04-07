@@ -1,0 +1,17 @@
+.signupPage {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.logoImage {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:167px;
+}
+@media(max-width: 746px) {
+    .logoImage {
+        width: 30%;
+    }
+}

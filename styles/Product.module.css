@@ -1,0 +1,16 @@
+.productItem {
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+.productQuoteSection {
+    background: rgba(51, 27, 59, 0.05);
+    border-radius: 0px 18px 18px 18px;
+    margin-bottom: 10px;
+    display: flex;
+    padding:8px 12px;
+    gap: 8px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}

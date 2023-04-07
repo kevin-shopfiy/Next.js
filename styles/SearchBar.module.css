@@ -1,0 +1,20 @@
+.patternIcon {
+   position: absolute;
+   transform: translate(-50%, -50%);
+   top: 50%;
+   left: 50%; 
+   
+}
+.sortButton {
+    border: 0.84px solid #E5E7EB;
+    border-radius: 12px;
+    background-color: #fff;
+    padding: 2px 0;
+}
+.borderRadiusRight div {
+    border-radius: 0px 12px 12px 0px;
+}
+.borderRadiusLeft div {
+    border-radius: 12px 0px 0px 12px;
+    border: 1.2px solid #E5E7EB;
+}
